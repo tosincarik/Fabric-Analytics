@@ -21,6 +21,7 @@ The notebook codes can be found [here](https://github.com/tosincarik/Fabric-Anal
 3. Import the kaggle datasets using personal api key
 4. Install kaggle in the notebook
 5. Create a directory for storage of files in lakehouse
+---
 ![alt text](SettingEnviron.PNG)
 
 
@@ -29,7 +30,9 @@ The notebook codes can be found [here](https://github.com/tosincarik/Fabric-Anal
 2. Read the data into a pandas dataframe
 3. Wrangle dataset in data wrangler and create the fact and dimension table ( Drop duplicates, rename files, drop columns)
 4. Create column index and merge tables with python for the fact and dimension tables
+---
 ![alt text](2a.PNG)
+---
 ![alt text](2aa.PNG)
 
 
@@ -38,5 +41,6 @@ The notebook codes can be found [here](https://github.com/tosincarik/Fabric-Anal
 2. Load data into tables
 3. Explore the SQL analytics endpoint to create views etc
 4. Create measures, calculated groups, apply row level security and build reports
+---
 ![alt text](3.PNG)
 
