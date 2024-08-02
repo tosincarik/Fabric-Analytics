@@ -21,7 +21,7 @@ The notebook codes can be found [here](https://github.com/tosincarik/Fabric-Anal
 3. Import the kaggle datasets using personal api key
 4. Install kaggle in the notebook
 5. Create a directory for storage of files in lakehouse
-![alt text](1a.PNG)
+![alt text](SettingEnviron.PNG)
 
 
 #### Step 2 : Download and clean dataset from kaggle
